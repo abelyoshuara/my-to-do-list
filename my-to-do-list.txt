@@ -1,3 +1,4 @@
 To Do List:
 - Learn graphic design.
-- Learn mobile programming.
+- Learn git & github.
+- Learn machine learning.

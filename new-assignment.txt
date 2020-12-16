@@ -4,3 +4,4 @@ New Assignment:
   * ES7
 - Learn React.Js
 - Learn Node.Js
+- Learn Python

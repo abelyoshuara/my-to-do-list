@@ -4,6 +4,6 @@ To Do List:
 - Learn PHP Frameworks
   * Codeigniter
   * Laravel
+  * Phalcon
 - Learn graphic design.
 - Learn git & github.
-- Learn machine learning.

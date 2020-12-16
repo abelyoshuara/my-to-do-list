@@ -7,4 +7,3 @@ To Do List:
   * Phalcon
 - Learn graphic design.
 - Learn git & github.
-- Learn machine learning.

@@ -1,4 +1,9 @@
 To Do List:
+- Learn Html & Css
+- Learn PHP basic
+- Learn PHP Frameworks
+  * Codeigniter
+  * Laravel
 - Learn graphic design.
 - Learn git & github.
 - Learn machine learning.
